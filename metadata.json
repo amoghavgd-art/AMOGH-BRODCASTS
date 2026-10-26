@@ -1,0 +1,8 @@
+{
+  "name": "AMOGH BRODCASTS",
+  "description": "Stream live radio broadcasts from anywhere in the world and translate them into your chosen language in real time using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
